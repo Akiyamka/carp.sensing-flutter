@@ -37,7 +37,7 @@ import 'package:battery_plus/battery_plus.dart';
 
 import 'package:timezone/data/latest_all.dart' as tz;
 import 'package:timezone/timezone.dart' as tz;
-import 'package:flutter_native_timezone/flutter_native_timezone.dart';
+import 'package:flutter_timezone/flutte_timezone.dart';
 
 part 'data_manager.dart';
 part 'device_manager.dart';
